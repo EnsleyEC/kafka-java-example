@@ -7,7 +7,7 @@ Config: 1 Consumer and 1 Producer working together.
 Knowledge based on Stephane Maarek's Kafka course. 
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-![Badge](https://img.shields.io/static/v1?label=status&message=working&color=green)
+![Badge](https://img.shields.io/static/v1?label=status&message=stopped&color=red)
 
 # Topics
 
